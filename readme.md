@@ -1,5 +1,6 @@
-To install:
+# Upstash search
 
+## To install:
 npm install
 npm run dev     # for development
 npm run build   # for production
